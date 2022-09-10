@@ -1,0 +1,27 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "Learn express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirzaabdullayevTest/express.js.git"
+  },
+  "author": "Mirzaabdullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirzaabdullayevTest/express.js/issues"
+  },
+  "homepage": "https://github.com/MirzaabdullayevTest/express.js#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
